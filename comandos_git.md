@@ -28,6 +28,11 @@ Comando para ver todas la versiones de mi proyecto
 - git log
 - git log --oneline
 
+Comando para cambiar entre versiones
+
+- git checkout <nombre de la rama o del identificador de la version>
+- git checkout --.
+
 Pasos para crear una version de mi código
 
 1.  Agregar los cambios
